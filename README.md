@@ -22,11 +22,6 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <a href="https://www.codewars.com/users/sallkyy">
-        <img src="https://www.codewars.com/users/sallkyy/badges/large" alt="Codewars Stats" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
       <a href="https://leetcode.com/sallkyy/">
         <img src="https://leetcode-stats-card.wolfboomm7.workers.dev/sallkyy?theme=radical&font=Fira%20Mono&ext=contest" alt="LeetCode Stats" />
       </a>
